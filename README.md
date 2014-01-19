@@ -3,6 +3,8 @@ LRMouseWheel
 
 32-bit Lightroom for Windows plugin that adds mousewheel support
 
+**This is not actively maintained. But I'm not opposed to updating it if people express interest in using it**
+
 I wrote this about three years ago and recently decided to open source it...
 Not necessarily because I think anyone will use it... but just to have a record that I did it.
 
